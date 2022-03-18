@@ -7,7 +7,7 @@ def main(a):
         bool
     """
     # Write your code here
-    return a==a*a%2
+    return a==a*(a%2)
 
 print(main(57))
 
