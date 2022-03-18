@@ -10,3 +10,5 @@ def main(a):
     return a==a*a%2
 
 print(main(57))
+
+
